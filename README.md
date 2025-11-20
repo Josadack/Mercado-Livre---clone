@@ -53,16 +53,4 @@ cd Mercado-Livre---clone
 
 3. Abra o arquivo `index.html` no navegador.
 
-## 🤝 Contribuição
 
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
-
-## 📄 Licença
-
-Este projeto é apenas para fins educacionais.
-
-## 👤 Autor
-
-Desenvolvimento por **você** (dev fullstack em evolução).
-
-**Código base e autoria original: Growdev**.
