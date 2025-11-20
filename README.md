@@ -1,45 +1,40 @@
 # Mercado Livre - Clone
 
-Este projeto é um **clone simplificado da interface do Mercado Livre**, desenvolvido para fins de estudo, prática e aprimoramento das habilidades em desenvolvimento web.
+Este projeto é um **clone simples da interface do Mercado Livre**, desenvolvido para fins de estudo com base no projeto original criado por **Rodolfo Mori**. O objetivo é praticar fundamentos de HTML, CSS e JavaScript, recriando a aparência e comportamento básico da página inicial.
 
-## 📌 Objetivo do Projeto
+## 📌 Objetivo
 
-Reproduzir a interface principal do Mercado Livre, aplicando conceitos de:
+Reproduzir uma interface semelhante ao Mercado Livre, treinando:
 
-* HTML5
-* CSS3
-* JavaScript
-
-O foco é a **estrutura visual**, responsividade e interação básica da página inicial.
+* Estruturação com **HTML5**
+* Estilização com **CSS3**
+* Interações básicas com **JavaScript**
 
 ## 📁 Estrutura do Projeto
 
 ```
 Mercado-Livre---clone/
-├── assets/
-│   ├── css/
-│   ├── img/
-│   └── js/
 ├── index.html
-└── README.md
+├── script.js
+└── styles.css
 ```
 
 ## 🚀 Tecnologias Utilizadas
 
-* **HTML5** para marcação
-* **CSS3** para estilização
-* **JavaScript** para interações básicas
+* **HTML5**
+* **CSS3**
+* **JavaScript**
 
 ## 🖼️ Funcionalidades
 
 * Layout inspirado no Mercado Livre
-* Barra de pesquisa
-* Cards de produtos
-* Sessões organizadas por categorias
+* Barra de busca
+* Sessões de produtos
+* Estrutura responsiva básica
 
 ## 🔧 Como executar
 
-1. Faça o clone do repositório:
+1. Clone o repositório:
 
 ```bash
 git clone https://github.com/Josadack/Mercado-Livre---clone
@@ -51,6 +46,8 @@ git clone https://github.com/Josadack/Mercado-Livre---clone
 cd Mercado-Livre---clone
 ```
 
-3. Abra o arquivo `index.html` no navegador.
+3. Abra o arquivo `index.html` diretamente no navegador.
 
+## 🤝 Créditos
 
+Projeto baseado no conteúdo educacional desenvolvido por **Rodolfo Mori**.
