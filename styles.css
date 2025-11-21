@@ -147,3 +147,31 @@ body{
     font-size: 0.9rem;
     
 }
+/* RESPONSIVIDADE */
+/* MOBILE */
+@media (max-width: 600px) {
+
+    .search-container {
+        flex-direction: column;
+        gap: 8px;
+    }
+
+    .logo {
+        width: 40px;
+    }
+
+    .hero h1 {
+        font-size: 26px;
+    }
+
+    .products-grid {
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+/* MOBILE MUITO PEQUENO */
+@media (max-width: 420px) {
+    .products-grid {
+        grid-template-columns: 1fr;
+    }
+}
